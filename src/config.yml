@@ -1,0 +1,25 @@
+# set to false if you want plugin features to be disabled upon starting (toggleable with /oop)
+startEnabled: true
+
+# default dong (/dong without parameters)
+# ensure you use proper minecraft names (e.g: sea_pickle)
+defaultDong: bone
+
+# message to user when /dong
+dongAdded: you've been... donged!
+dongChanged: bottom surgery... successful!
+dongRemoved: you've been... castrated!
+
+# thresholds for /nut <strength> <duration> <load> <player>
+#           and /piss <strength> <duration> <load> <player>
+maxStrength: 25
+maxDuration: 200
+maxLoad: 100
+
+# message to user when /nut
+messageUserNut: true
+nutMessage: splrt
+
+# message to user when /piss
+messageUserPiss: true
+pissMessage: how relieving!
